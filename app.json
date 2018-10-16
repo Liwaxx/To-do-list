@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "To Do List",
+   "icon": "./app/components/icon.png",
+   "version": "1.0.0",
+   "slug": "first-todo",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.unnamed.Todolist"
+   },
+   "android": {
+     "package": "com.unnamed.Todolist"
+   }
+  }
+}
